@@ -1,6 +1,6 @@
 <header class="mb-5">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="/">Youtube-Curarion</a>
+        <a class="navbar-brand" href="/">Youtube-Curation</a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#nav-bar">
         <span class="navbar-toggler-icon"></span>
         </button>
